@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Roberto! 👋
 
-<!--
-**verdugo-danieML/verdugo-danieML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a Full Stack Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+## 🛠 Skills
+1. Python
+2. Sql
+3. Data science
+4. Machine learning 
+5. Deep learning 
+6. Cloud computing
+7. Web scrapping
+8. Data Web apps
+
+
+
+## Summary Of My Journey
+👩‍💻 Started as a Electrical engineer
+
+🧠 I'm currently looking to change carrers to Data Science/Machine Learning
