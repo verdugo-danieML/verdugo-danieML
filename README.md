@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a Full Stack Data Scientist
+I'm a Full Stack AI engineer
 
 
 ## 🔗 Links
