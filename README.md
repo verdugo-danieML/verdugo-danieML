@@ -1,7 +1,7 @@
 # Roberto Daniel Verdugo Siqueiros
 **Computer Vision Engineer & ML Researcher**
 
-📧 verdugo.rds@gmail.com | 💼 [LinkedIn](https://linkedin.com) | 🐙 [GitHub](https://github.com) | 📍 Ensenada, Baja California, México
+📧 verdugo.rds@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rdverdugo/) | 📍 Ensenada, Baja California, México
 
 ---
 
